@@ -82,7 +82,7 @@ class SingleWagerView extends Component {
       <div id={loading} className="ui active dimmer">
         <div className="ui large text loader">
           <p className="loading-text">
-            This Honestly Takes A Long Time! Be Patient! Don't Leave The Page!
+            This Honestly Takes A Long Time! Be Patient! Do Not Leave The Page!
           </p>
         </div>
       </div>
